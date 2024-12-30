@@ -6,36 +6,32 @@ using static System.Console;
 
 public class Program
 {
-    /* aa*/
+
 
     static void BuildCourses(ref ArrayList CoursesDataList)
     {
-
-
+        // Define the file path for course data.
         string FilePath = "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Data\\Courses data\\Course data.txt";
 
+        // Open the file for reading course data.
         using (StreamReader reader = File.OpenText(FilePath))
         {
+            string line = reader.ReadLine(); // Read the first line of the file.
+            int idCourseCounter = 1; // Initialize a counter for course IDs.
 
-            string line = reader.ReadLine();
-            int idCourseCounter = 1;
+            // Check if the file contains any data.
             if (line != null)
             {
-
+                // Split the line into course details (assumes format: name, code).
                 string[] CourseData = line.Split(" ");
+                // Create a Course object and add it to the list.
                 Course c = new Course(CourseData[0] + " " + CourseData[1], CourseData[2], idCourseCounter++);
                 CoursesDataList.Add(c);
 
-                line = reader.ReadLine();
-
+                line = reader.ReadLine(); // Move to the next line (if any).
             }
-
         }
-
-
-
     }
-
 
     static void BuildDoctors(ref ArrayList DoctorsDataList, ref ArrayList CoursesDataList)
     {
