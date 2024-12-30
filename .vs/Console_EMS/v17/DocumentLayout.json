@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C#\\Console_EMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8BF2DD-6E98-4B94-ACE2-0968C5E6C6A7}|Console_EMS\\Console_EMS.csproj|d:\\projects\\c#\\console_ems\\console_ems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8BF2DD-6E98-4B94-ACE2-0968C5E6C6A7}|Console_EMS\\Console_EMS.csproj|solutionrelative:console_ems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8BF2DD-6E98-4B94-ACE2-0968C5E6C6A7}|Console_EMS\\Console_EMS.csproj|d:\\projects\\c#\\console_ems\\console_ems\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8BF2DD-6E98-4B94-ACE2-0968C5E6C6A7}|Console_EMS\\Console_EMS.csproj|solutionrelative:console_ems\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8BF2DD-6E98-4B94-ACE2-0968C5E6C6A7}|Console_EMS\\Console_EMS.csproj|d:\\projects\\c#\\console_ems\\console_ems\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8BF2DD-6E98-4B94-ACE2-0968C5E6C6A7}|Console_EMS\\Console_EMS.csproj|solutionrelative:console_ems\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8BF2DD-6E98-4B94-ACE2-0968C5E6C6A7}|Console_EMS\\Console_EMS.csproj|d:\\projects\\c#\\console_ems\\console_ems\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8BF2DD-6E98-4B94-ACE2-0968C5E6C6A7}|Console_EMS\\Console_EMS.csproj|solutionrelative:console_ems\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8BF2DD-6E98-4B94-ACE2-0968C5E6C6A7}|Console_EMS\\Console_EMS.csproj|d:\\projects\\c#\\console_ems\\console_ems\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8BF2DD-6E98-4B94-ACE2-0968C5E6C6A7}|Console_EMS\\Console_EMS.csproj|solutionrelative:console_ems\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8BF2DD-6E98-4B94-ACE2-0968C5E6C6A7}|Console_EMS\\Console_EMS.csproj|d:\\projects\\c#\\console_ems\\console_ems\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8BF2DD-6E98-4B94-ACE2-0968C5E6C6A7}|Console_EMS\\Console_EMS.csproj|solutionrelative:console_ems\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8BF2DD-6E98-4B94-ACE2-0968C5E6C6A7}|Console_EMS\\Console_EMS.csproj|d:\\projects\\c#\\console_ems\\console_ems\\soluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8BF2DD-6E98-4B94-ACE2-0968C5E6C6A7}|Console_EMS\\Console_EMS.csproj|solutionrelative:console_ems\\soluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Student.cs",
+              "RelativeDocumentMoniker": "Console_EMS\\Student.cs",
+              "ToolTip": "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Student.cs",
+              "RelativeToolTip": "Console_EMS\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:49:25.727Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Doctor.cs",
+              "RelativeDocumentMoniker": "Console_EMS\\Doctor.cs",
+              "ToolTip": "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Doctor.cs",
+              "RelativeToolTip": "Console_EMS\\Doctor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:10:31.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Course.cs",
+              "RelativeDocumentMoniker": "Console_EMS\\Course.cs",
+              "ToolTip": "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Course.cs",
+              "RelativeToolTip": "Console_EMS\\Course.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAADwv0cAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:53:49.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Soluation.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Soluation.cs",
+              "RelativeDocumentMoniker": "Console_EMS\\Soluation.cs",
+              "ToolTip": "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Soluation.cs",
+              "RelativeToolTip": "Console_EMS\\Soluation.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:47:07.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Assignment.cs",
+              "RelativeDocumentMoniker": "Console_EMS\\Assignment.cs",
+              "ToolTip": "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Assignment.cs",
+              "RelativeToolTip": "Console_EMS\\Assignment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:07:12.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Person.cs",
+              "RelativeDocumentMoniker": "Console_EMS\\Person.cs",
+              "ToolTip": "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Person.cs",
+              "RelativeToolTip": "Console_EMS\\Person.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:00:45.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Program.cs",
+              "RelativeDocumentMoniker": "Console_EMS\\Program.cs",
+              "ToolTip": "D:\\Projects\\C#\\Console_EMS\\Console_EMS\\Program.cs",
+              "RelativeToolTip": "Console_EMS\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAswDMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:33:02.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

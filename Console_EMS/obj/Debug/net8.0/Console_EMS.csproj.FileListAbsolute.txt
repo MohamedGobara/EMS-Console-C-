@@ -1,0 +1,14 @@
+D:\Projects\C#\Console_EMS\Console_EMS\bin\Debug\net8.0\Console_EMS.exe
+D:\Projects\C#\Console_EMS\Console_EMS\bin\Debug\net8.0\Console_EMS.deps.json
+D:\Projects\C#\Console_EMS\Console_EMS\bin\Debug\net8.0\Console_EMS.runtimeconfig.json
+D:\Projects\C#\Console_EMS\Console_EMS\bin\Debug\net8.0\Console_EMS.dll
+D:\Projects\C#\Console_EMS\Console_EMS\bin\Debug\net8.0\Console_EMS.pdb
+D:\Projects\C#\Console_EMS\Console_EMS\obj\Debug\net8.0\Console_EMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Console_EMS\Console_EMS\obj\Debug\net8.0\Console_EMS.AssemblyInfoInputs.cache
+D:\Projects\C#\Console_EMS\Console_EMS\obj\Debug\net8.0\Console_EMS.AssemblyInfo.cs
+D:\Projects\C#\Console_EMS\Console_EMS\obj\Debug\net8.0\Console_EMS.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Console_EMS\Console_EMS\obj\Debug\net8.0\Console_EMS.dll
+D:\Projects\C#\Console_EMS\Console_EMS\obj\Debug\net8.0\refint\Console_EMS.dll
+D:\Projects\C#\Console_EMS\Console_EMS\obj\Debug\net8.0\Console_EMS.pdb
+D:\Projects\C#\Console_EMS\Console_EMS\obj\Debug\net8.0\Console_EMS.genruntimeconfig.cache
+D:\Projects\C#\Console_EMS\Console_EMS\obj\Debug\net8.0\ref\Console_EMS.dll
